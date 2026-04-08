@@ -23,24 +23,18 @@ Jika belum punya, unduh di: [nodejs.org](https://nodejs.org/)
 Download atau clone repository ini, lalu masuk ke folder project:
 ```bash
 cd folder-juy-project
-3. Konfigurasi Awal
-Pastikan terdapat file config.json di dalam folder utama dengan isi sebagai berikut:
 
-JSON
-{
-  "kodeAkses": "ZOM-2024-FREE"
-}
-4. Install Dependencies
+
+3. Install Dependencies
 Buka Terminal/CMD di folder tersebut dan jalankan perintah:
-
 Bash
-npm install puppeteer
+npm install
 
 ## 🚀 Cara Menjalankan
 Pastikan Anda berada di folder project, lalu jalankan perintah:
-
-```bash
+bash
 npm start
+
 🎮 Kontrol Saat Berjalan
 Masukkan Kode Akses: Gunakan kode dari admin.
 
