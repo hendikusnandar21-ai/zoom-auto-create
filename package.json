@@ -1,0 +1,14 @@
+{
+  "name": "create-zoom-juy-project",
+  "version": "2.0.0",
+  "description": "Automated Zoom Account Creator by JUY PROJECT",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "JUY PROJECT",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
